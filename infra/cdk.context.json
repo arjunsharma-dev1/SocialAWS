@@ -1,0 +1,8 @@
+{
+  "availability-zones:account=730335377506:region=ap-south-1": [
+    "ap-south-1a",
+    "ap-south-1b",
+    "ap-south-1c"
+  ],
+  "ssm:account=730335377506:parameterName=/aws/service/ami-amazon-linux-latest/amzn2-ami-hvm-x86_64-gp2:region=ap-south-1": "ami-006d9dc984b8eb4b9"
+}
