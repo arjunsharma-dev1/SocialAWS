@@ -47,3 +47,5 @@ curl -X POST -H 'Content-type: application/json' -d '{"text": "Sample10"}' hostn
 - sets JAVA_HOME
 - sets JAVA Path to PATH variable
 - sets REGION, AWS_ACCOUNT_ID & AWS_SOCIALAWS_SQS environment variables in EC2
+- run `cdk deploy` to deploy infrastructure to AWS
+- run `cdk destroy` to undeploy infrastructure from AWS
